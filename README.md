@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Cristian Sandri
 
-<!--
-**cristiansandri/cristiansandri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Designer Gráfico há 5 anos  
+📈 Atuo com Marketing há 2 anos  
+🎓 Formando em Publicidade e Propaganda  
+💻 Estudando Programação para Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um profissional criativo com forte base em design e marketing, estudando desenvolvimento.
+
+Tenho experiência na criação de identidades visuais, edição de vídeos e construção de sites.
+
+Atualmente estou estudando programação para ampliar minha atuação para desenvolvimento web, automações e segurança da informação.
+
+---
+
+## 🛠️ Especialidades
+
+### 🎨 Design & Vídeo
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Adobe Premiere  
+- Adobe After Effects  
+- DaVinci Resolve  
+- Affinity  
+
+### 🌐 Web & Sites
+- WordPress  
+- Elementor  
+- HTML  
+- CSS  
+- JavaScript  
+
+### 📚 Estudando
+- Publicidade
+- Desenvolvimento Web Full Stack  
+- Python  
+- Cibersegurança  
+
+---
+
+## 🌍 Projetos Criados
+
+Alguns sites desenvolvidos:
+
+- https://ibexmarketing.com.br  
+- https://martinsfelix.com.br  
+- https://cursomontarpc.com.br  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 🐍 Snake Game (Minhas contribuições virando jogo)
+
+![Snake animation](https://github.com/cristiansandri/cristiansandri/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📌 Git Status Atual
+
+```bash
+> git status
+
+On branch main
+Your creativity is up to date.
+Changes to be committed:
+  (use "git push" to share your evolution)
+
+        new file:   web-development
+        new file:   python-studies
+        new file:   cybersecurity-path
