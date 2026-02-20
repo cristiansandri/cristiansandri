@@ -58,25 +58,3 @@ Alguns sites desenvolvidos:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
----
-
-## 🐍 Snake Game (Minhas contribuições virando jogo)
-
-![Snake animation](https://github.com/cristiansandri/cristiansandri/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📌 Git Status Atual
-
-```bash
-> git status
-
-On branch main
-Your creativity is up to date.
-Changes to be committed:
-  (use "git push" to share your evolution)
-
-        new file:   web-development
-        new file:   python-studies
-        new file:   cybersecurity-path
