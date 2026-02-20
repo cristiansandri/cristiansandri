@@ -9,9 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional criativo com forte base em design e marketing, estudando desenvolvimento.
-
-Tenho experiência na criação de identidades visuais, edição de vídeos e construção de sites.
+Forte base em design e marketing, estudando desenvolvimento. Tenho experiência na criação de identidades visuais, edição de vídeos e construção de sites.
 
 Atualmente estou estudando programação para ampliar minha atuação para desenvolvimento web, automações e segurança da informação.
 
