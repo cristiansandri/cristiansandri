@@ -14,12 +14,10 @@ Forte base em design e marketing, estudando desenvolvimento. Tenho experiência 
 Atualmente estou estudando programação para ampliar minha atuação para desenvolvimento web, automações e segurança da informação.
 
 ---
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ## 🛠️ Especialidades
 
 ### 🎨 Design & Vídeo
-- Adobe Photoshop <i class="devicon-photoshop-plain"></i>
+- Adobe Photoshop <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
             
 - Adobe Illustrator  
 - Adobe Premiere  
