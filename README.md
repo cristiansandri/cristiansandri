@@ -14,6 +14,7 @@ Forte base em design e marketing, estudando desenvolvimento. Tenho experiência 
 Atualmente estou estudando programação para ampliar minha atuação para desenvolvimento web, automações e segurança da informação.
 
 ---
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## 🛠️ Especialidades
 
