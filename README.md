@@ -18,7 +18,8 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 ## 🛠️ Especialidades
 
 ### 🎨 Design & Vídeo
-- Adobe Photoshop  
+- Adobe Photoshop <i class="devicon-photoshop-plain"></i>
+            
 - Adobe Illustrator  
 - Adobe Premiere  
 - Adobe After Effects  
