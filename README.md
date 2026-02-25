@@ -17,22 +17,14 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 ## 🛠️ Especialidades
 
 ### 🎨 Design & Vídeo
-- Adobe Photoshop <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
-- Adobe Illustrator <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="40" height="40"/>
-- Adobe Premiere  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" height="40" />
-- Adobe After Effects  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
-- DaVinci Resolve <img src="https://upload.wikimedia.org/wikipedia/pt/c/c7/DaVinci_Resolve_logo.png" width="40" height="40"/>
-- Affinity   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/1280px-Affinity_%28App%29_Logo.svg.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/> <img src="https://images.blackmagicdesign.com/images/media/press-images/davinci-resolve-logo/davinci-resolve-logo-hero.jpg?_v=1621308338" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/1280px-Affinity_%28App%29_Logo.svg.png" width="40" height="40"/>
 
 ### 🌐 Web & Sites
-- WordPress  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" />
-- HTML  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-- CSS  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-- JavaScript  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"  />
 
 ### 📚 Estudando
-- Publicidade
-- Desenvolvimento Web Full Stack  
+- Publicidade e Propaganda
+- Desenvolvimento Web Full Stack
 - Python  
 - Cibersegurança  
 
@@ -44,4 +36,15 @@ Alguns sites desenvolvidos:
 
 - https://ibexmarketing.com.br  
 - https://martinsfelix.com.br  
-- https://cursomontarpc.com.br  
+- https://cursomontarpc.com.br
+
+---
+
+## 📲 Contato
+
+<div>
+<a href="https://instagram.com/_csandri" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cristian-sandri-6b97ba17b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:cristiansandri.cs1515@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+</div>
