@@ -22,7 +22,7 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 - Adobe Premiere  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" width="40" height="40" />
 - Adobe After Effects  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
 - DaVinci Resolve <img src="https://upload.wikimedia.org/wikipedia/pt/c/c7/DaVinci_Resolve_logo.png" width="40" height="40"/>
-- Affinity   <img src="[https://upload.wikimedia.org/wikipedia/pt/c/c7/DaVinci_Resolve_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/1280px-Affinity_%28App%29_Logo.svg.png)" width="40" height="40"/>
+- Affinity   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_%28App%29_Logo.svg/1280px-Affinity_%28App%29_Logo.svg.png" width="40" height="40"/>
 
 ### 🌐 Web & Sites
 - WordPress  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40" />
