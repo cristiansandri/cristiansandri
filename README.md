@@ -30,13 +30,8 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 
 ---
 
-## 🌍 Projetos Criados
-
-Alguns sites desenvolvidos:
-
-- https://ibexmarketing.com.br  
-- https://martinsfelix.com.br  
-- https://cursomontarpc.com.br
+## 🌍 Portifólio
+- https://cristiansandri.github.io
 
 ---
 
@@ -48,6 +43,4 @@ Alguns sites desenvolvidos:
 <a href = "mailto:cristiansandri.cs1515@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 </div>
-
-![Snake animation](https://github.com/cristiansandri/cristiansandri/blob/output/github-contribution-grid-snake.svg)
 
