@@ -6,7 +6,10 @@
 💻 Estudando Programação para Web  
 
 ---
+## 🌍 Portifólio
+- https://cristiansandri.github.io
 
+---
 ## 🚀 Sobre mim
 
 Forte base em design e marketing, estudando desenvolvimento. Tenho experiência na criação de identidades visuais, edição de vídeos e construção de sites.
@@ -24,14 +27,8 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 
 ### 📚 Estudando
 - Publicidade e Propaganda
-- Desenvolvimento Web Full Stack
-- Python  
-- Cibersegurança  
-
----
-
-## 🌍 Portifólio
-- https://cristiansandri.github.io
+- Desenvolvimento Web
+- Lógica de Programação
 
 ---
 
