@@ -2,7 +2,8 @@
 
 🎨 Designer Gráfico há 5 anos  
 📈 Atuo com Marketing há 2 anos  
-🎓 Formando em Publicidade e Propaganda  
+🎓 Formando em Publicidade e Propaganda
+🎓 Formando em Análise e Desenvolvimento de Sistemas
 💻 Estudando Programação para Web  
 
 ---
