@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cristian Sandri
+## Cristian Sandri
 
 🎨 Designer Gráfico há 5 anos  
 📈 Atuo com Marketing há 2 anos  
@@ -28,6 +28,7 @@ Atualmente estou estudando programação para ampliar minha atuação para desen
 
 ### 📚 Estudando
 - Publicidade e Propaganda
+- Análise e Desenvolvimento de Sistemas
 - Desenvolvimento Web
 - Lógica de Programação
 
