@@ -4,7 +4,7 @@
 📈 Atuo com Marketing há 2 anos  
 🎓 Formando em Publicidade e Propaganda  
 🎓 Formando em Análise e Desenvolvimento de Sistemas  
-💻 Estudando Programação para Web  
+💻 Estudando Front-end Development
 
 ---
 ## 🌍 Portifólio
