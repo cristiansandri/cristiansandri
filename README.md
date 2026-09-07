@@ -2,20 +2,22 @@
 
 🎯 Desenvolvedor Front-end | Marketing | Design
 
-🎓 Graduando em Publicidade e Propaganda
-🎓 Graduando em Análise e Desenvolvimento de Sistemas
+🎓 Graduando em Publicidade e Propaganda (7/8)
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (1/6)
+🎓 Cursando Desenvolvimento Front-End React
+
 
 ---
 
 ## 🌎 Portfólio
 
-🔗 https://cristiansandri.github.io
+🔗 https://cristiansandri.vercel.app
 
 ---
 
 ## 🚀 Sobre mim
 
-Profissional em transição de carreira, unindo mais de 6 anos de experiência em Marketing, Design e Produção Audiovisual ao desenvolvimento de software.
+Unindo mais de 6 anos de experiência em Marketing, Design e Produção Audiovisual ao desenvolvimento de software.
 
 Atualmente atuo na criação de aplicações web, ferramentas digitais e sites, participando tanto da construção da interface quanto da estratégia por trás dos produtos. Essa combinação entre desenvolvimento, design e marketing permite criar soluções focadas em experiência do usuário, performance e objetivos de negócio.
 
